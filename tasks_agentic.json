@@ -1,0 +1,56 @@
+[
+    {
+        "title": "study ",
+        "deadline": "2025-10-24",
+        "priority": "High",
+        "notes": "study hard"
+    },
+    {
+        "title": "Finish Math Assignment",
+        "deadline": "2025-10-25",
+        "priority": "High",
+        "notes": "Chapter 5, difficult problems"
+    },
+    {
+        "title": "Grocery Shopping",
+        "deadline": "2025-10-24",
+        "priority": "Medium",
+        "notes": "Buy fruits, milk, and bread"
+    },
+    {
+        "title": "Call Project Team",
+        "deadline": "2025-10-24",
+        "priority": "High",
+        "notes": "Discuss project milestones"
+    },
+    {
+        "title": "Yoga Session",
+        "deadline": "2025-10-26",
+        "priority": "High",
+        "notes": "30-minute morning session"
+    },
+    {
+        "title": "Prepare Presentation",
+        "deadline": "2025-10-27",
+        "priority": "High",
+        "notes": "Slides for Monday meeting"
+    },
+    {
+        "title": "play",
+        "deadline": "2025-10-25",
+        "priority": "Low",
+        "notes": ""
+    },
+    {
+        "title": "eat food",
+        "deadline": "2025-10-31",
+        "priority": "Medium",
+        "notes": "eat on time"
+    },
+    {
+        "title": "play",
+        "deadline": "2025-10-25",
+        "priority": "Medium",
+        "notes": "badminon"
+    }
+]
